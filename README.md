@@ -1,3 +1,5 @@
+pull
+
 vscode
 
 clion test
